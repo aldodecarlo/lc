@@ -11090,7 +11090,7 @@ div[class^='bg-black'] .owl-carousel .owl-dots .owl-dot:hover:before, div[class^
 .fullscreen-toggle-btn .lines {
   position: relative;
   display: inline-block;
-  background: #000;
+  background: #cea464;
   width: 22px;
   height: 2px;
   margin: 0;
@@ -11104,7 +11104,7 @@ div[class^='bg-black'] .owl-carousel .owl-dots .owl-dot:hover:before, div[class^
   content: '';
   position: absolute;
   left: 0;
-  background: #000;
+  background: #cea464;
   width: 22px;
   height: 2px;
   display: inline-block;
